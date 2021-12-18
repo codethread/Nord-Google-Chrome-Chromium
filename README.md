@@ -1,12 +1,4 @@
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/abehfkkfjlplnjadfcjiflnejblfmmpj.svg)](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj/)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/abehfkkfjlplnjadfcjiflnejblfmmpj.svg)](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj/)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/abehfkkfjlplnjadfcjiflnejblfmmpj.svg)](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj/)
-
-<img src="https://github.com/Kevinwochan/Nord-Google-Chrome-Chromium/blob/main/preview.jpeg" width="600">
-
-# Installation
-### From the Chrome Webstore
-https://chrome.google.com/webstore/detail/nordic-theme/abehfkkfjlplnjadfcjiflnejblfmmpj/reviews
+Fork of the [original](https://github.com/Kevinwochan/Nord-Google-Chrome-Chromium), this has slightly darker tab text.
 
 ### As a developer
 Download the theme
